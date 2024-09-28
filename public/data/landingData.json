@@ -1,0 +1,35 @@
+{
+  "title": "صباغ الكويت",
+  "subtitle": "مرحبا بكم مع ابو احمد",
+  "contactPrompt": "تواصل معنا الان",
+  "description": "مرحبًا بكم في خدمات صباغ الكويت، حيث نقدم خدمات صباغة متكاملة تتميز بالجودة والاحترافية. نحن متخصصون في تحويل المساحات إلى أعمال فنية بألوان نابضة بالحياة، مع التركيز على التفاصيل والجودة.",
+  "socialMediaLinks": [
+    {
+      "href": "https://www.facebook.com/amr.mohammadabohassab",
+      "ariaLabel": "تواصل عبر فيس بوك",
+      "iconClass": "bx bxl-facebook"
+    },
+    {
+      "href": "https://wa.me/01065061673",
+      "ariaLabel": "تواصل عبر واتساب",
+      "iconClass": "bx bxl-whatsapp"
+    },
+    {
+      "href": "https://www.instagram.com/amrmohammadabo/",
+      "ariaLabel": "تواصل عبر انستجرام",
+      "iconClass": "bx bxl-instagram-alt"
+    },
+    {
+      "href": "https://www.linkedin.com/feed/",
+      "ariaLabel": "تواصل عبر لينكيد ان",
+      "iconClass": "bx bxl-linkedin-square"
+    }
+  ],
+  "contactButton": {
+    "href": "tel:+96594903036",
+    "text": "تواصل معنا",
+    "iconClass": "bx bxs-phone-call"
+  },
+  "imageSrc": "../images/صباغ الاول في الكويت لجميع اصباغ والدهانات .webp",
+  "imageAlt": "صباغ الكويت"
+}

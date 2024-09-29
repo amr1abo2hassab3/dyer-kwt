@@ -11,7 +11,7 @@ const Services = () => {
   }, []);
 
   return (
-    <section className="projects" id="projects">
+    <section className="projects">
       <h2 className="heading">
         <span>صباغ </span> الكويت
       </h2>
@@ -20,7 +20,9 @@ const Services = () => {
           <div className="project-card" key={index}>
             <img
               src={service.img}
-              alt={`Project ${index + 1}`}
+              alt={service.altImg}
+              name={service.altImg}
+              title={service.altImg}
               loading="lazy"
             />
             <h1>{service.title}</h1>
